@@ -15,10 +15,8 @@ __pycache__/
 *.zip
 *.tar
 *.gz
-*.pt
 *.onnx
 weights/*.jsonl
-weights/*.pt
 logs/
 
 # === Outils et éditeurs ===
