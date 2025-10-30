@@ -1,0 +1,26 @@
+# === Environnements virtuels ===
+.venv/
+venv/
+env/
+
+# === Caches Python ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# === Données volumineuses ===
+*.jsonl
+*.csv
+*.zip
+*.tar
+*.gz
+*.pt
+*.onnx
+weights/*.jsonl
+weights/*.pt
+logs/
+
+# === Outils et éditeurs ===
+.vscode/
+.idea/
